@@ -15,9 +15,9 @@
   <name>petclinic</name>
 
     <scm>
-        <connection>scm:git:https://github.com/srikantheee/spring-petclinic.git</connection>
-        <developerConnection>scm:git:https://github.com/srikantheee/spring-petclinic.git</developerConnection>
-        <url>https://github.com/srikantheee/spring-petclinic.git</url>
+        <connection>scm:git:https://github.com/petclinic-self/petclinic-sample.git</connection>
+        <developerConnection>scm:git:https://github.com/petclinic-self/petclinic-sample.git</developerConnection>
+        <url>https://github.com/petclinic-self/petclinic-sample.git</url>
         <tag>HEAD</tag>
     </scm>
 
